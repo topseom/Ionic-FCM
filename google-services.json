@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "355913631437",
+    "firebase_url": "https://ionic-advance-b9172.firebaseio.com",
+    "project_id": "ionic-advance-b9172",
+    "storage_bucket": "ionic-advance-b9172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355913631437:android:c05251e226339e3e",
+        "android_client_info": {
+          "package_name": "com.monchai.fcm1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355913631437-7ruocod91hfrjftiroj2ul2lapkbnmio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlBc9veE9PjVLYBfNP0xJo0E04rKV4sdE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
